@@ -6,6 +6,7 @@ function Table({ results, setResults, nameFilter="" }) {
   const [sortDirection, setSortDirection ] = useState(0);
 
   nameFilter=new RegExp(nameFilter, "i")
+  // eslint-disable-next-line
   results=results ?.filter((result, index) => nameFilter.test(result.name.first))
 
   if (sortDirection) {
