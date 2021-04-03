@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/willtham1/20User-Directory/static/css/main.b32c848a.chunk.css",
+    "main.js": "/willtham1/20User-Directory/static/js/main.063e0d14.chunk.js",
+    "main.js.map": "/willtham1/20User-Directory/static/js/main.063e0d14.chunk.js.map",
+    "runtime-main.js": "/willtham1/20User-Directory/static/js/runtime-main.9cb0a687.js",
+    "runtime-main.js.map": "/willtham1/20User-Directory/static/js/runtime-main.9cb0a687.js.map",
+    "static/css/2.150d169a.chunk.css": "/willtham1/20User-Directory/static/css/2.150d169a.chunk.css",
+    "static/js/2.55f3155a.chunk.js": "/willtham1/20User-Directory/static/js/2.55f3155a.chunk.js",
+    "static/js/2.55f3155a.chunk.js.map": "/willtham1/20User-Directory/static/js/2.55f3155a.chunk.js.map",
+    "static/js/3.e1a74647.chunk.js": "/willtham1/20User-Directory/static/js/3.e1a74647.chunk.js",
+    "static/js/3.e1a74647.chunk.js.map": "/willtham1/20User-Directory/static/js/3.e1a74647.chunk.js.map",
+    "index.html": "/willtham1/20User-Directory/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/willtham1/20User-Directory/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b32c848a.chunk.css.map": "/willtham1/20User-Directory/static/css/main.b32c848a.chunk.css.map",
+    "static/js/2.55f3155a.chunk.js.LICENSE.txt": "/willtham1/20User-Directory/static/js/2.55f3155a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb0a687.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.55f3155a.chunk.js",
+    "static/css/main.b32c848a.chunk.css",
+    "static/js/main.063e0d14.chunk.js"
+  ]
+}

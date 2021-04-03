@@ -1,0 +1,8 @@
+button{
+    color:white;
+    background-color: rgb(64, 66, 68);
+}
+
+.table td, .table th {
+    vertical-align: middle !important;
+}
